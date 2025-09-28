@@ -1,1 +1,40 @@
+www.nasa.com
+Hop	Hostname	IP	AS	Network	Country	Avg (ms)
+1	10.204.3.120	10.204.3.120				
+2	10.204.35.13	10.204.35.13				
+3	10.204.32.2	10.204.32.2				
+4	lo0-0.gw4.atl1.us.linode.com	74.207.239.106	AKAMAI-LINODE-AP Akamai Connected Cloud, SG	74.207.224.0/20		
+5	???	???				
+6	???	???				
+7	port-channel4.core3.chi1.he.net	184.104.192.37	HURRICANE, US	184.104.0.0/15		
+8	mnsi.e0-3.switch7.chi1.he.net	184.105.32.118	HURRICANE, US	184.105.32.0/20		
+9	ndcolo-gw3.wndson17.mnsi.net	216.8.136.134	MANAGEDNETWORK, CA	216.8.128.0/19		
+10	yyz-re-1_bd1301.core.nextdimensioninc.com	142.147.67.18	ND-CA-ASN, CA	142.147.67.0/24		
+11	104.247.84.102	104.247.84.102	ND-CA-ASN, CA	104.247.84.0/24		
+12	104.247.80.26	104.247.80.26	TEAMINTERNET-CA-AS, DE	104.247.80.0/22		
+13	104.247.81.52	104.247.81.52	TEAMINTERNET-CA-AS, DE	104.247.80.0/22		
+ASN Information
+AKAMAI-LINODE-AP Akamai Connected Cloud, SG63949
+20.00 ms
 
+
+www.goggle.com
+Traceroute Error
+Error: Unable to resolve target domain. Please check the domain name and try again.
+
+
+www.onet.com
+Hop	Hostname	IP	AS	Network	Country	Avg (ms)
+1	10.204.3.120	10.204.3.120				
+2	10.204.35.13	10.204.35.13				
+3	10.204.32.2	10.204.32.2				
+4	lo0-0.gw3.atl1.us.linode.com	74.207.239.105	AKAMAI-LINODE-AP Akamai Connected Cloud, SG	74.207.224.0/20		
+5	ae48.r21.atl01.ien.aloha-jmannil.netarch.akamai.com	23.203.144.38	AKAMAI-ASN1, NL	23.203.144.0/20		
+6	ae3.r22.atl01.mag.aloha-jmannil.netarch.akamai.com	23.192.0.96	AKAMAI-ASN1, NL	23.192.0.0/11		
+7	ae1.r21.atl01.icn.aloha-jmannil.netarch.akamai.com	23.192.0.67	AKAMAI-ASN1, NL	23.192.0.0/11		
+8	ae8.r22.iad04.icn.aloha-jmannil.netarch.akamai.com	23.193.112.205	AKAMAI-ASN1, NL	23.192.0.0/11		
+9	ae6.r22.iad02.mag.aloha-jmannil.netarch.akamai.com	23.209.170.86	AKAMAI-ASN1, NL	23.192.0.0/11		
+10	ae1.r23.iad04.ien.aloha-jmannil.netarch.akamai.com	23.209.170.111	AKAMAI-ASN1, NL	23.192.0.0/11		
+11	???	???				
+
+po kilku próbach większośc sprawdzonych stron ulokowana jest w USA 
