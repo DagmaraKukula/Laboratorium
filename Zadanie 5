@@ -37,4 +37,27 @@ Hop	Hostname	IP	AS	Network	Country	Avg (ms)
 10	ae1.r23.iad04.ien.aloha-jmannil.netarch.akamai.com	23.209.170.111	AKAMAI-ASN1, NL	23.192.0.0/11		
 11	???	???				
 
+www.interia.pl
+Hop	Hostname	IP	AS	Network	Country	Avg (ms)
+1	10.204.3.120	10.204.3.120				
+2	10.204.35.14	10.204.35.14				
+3	10.204.32.2	10.204.32.2				
+4	lo0-0.gw3.atl1.us.linode.com	74.207.239.105	AKAMAI-LINODE-AP Akamai Connected Cloud, SG	74.207.224.0/20		
+5	ae48.r21.atl01.ien.aloha-jmannil.netarch.akamai.com	23.203.144.38	AKAMAI-ASN1, NL	23.203.144.0/20		
+6	atl-b4-link.ip.twelve99.net	80.239.195.0	TWELVE99 Arelion, fka Telia Carrier, SE	80.239.192.0/19		
+7	atl-bb2-link.ip.twelve99.net	62.115.140.74	TWELVE99 Arelion, fka Telia Carrier, SE	62.115.0.0/16		
+8	ash-bb2-link.ip.twelve99.net	62.115.137.132	TWELVE99 Arelion, fka Telia Carrier, SE	62.115.0.0/16		
+9	prs-bb2-link.ip.twelve99.net	62.115.140.106	TWELVE99 Arelion, fka Telia Carrier, SE	62.115.0.0/16		
+10	ffm-bb2-link.ip.twelve99.net	62.115.122.139	TWELVE99 Arelion, fka Telia Carrier, SE	62.115.0.0/16		
+11	???	???				
+12	pzn-b4-link.ip.twelve99.net	62.115.141.213	TWELVE99 Arelion, fka Telia Carrier, SE	62.115.0.0/16		
+13	pzn-b2-link.ip.twelve99.net	62.115.141.215	TWELVE99 Arelion, fka Telia Carrier, SE	62.115.0.0/16		
+14	polskiejakademi-ic-387778.ip.twelve99-cust.net	213.248.94.193	TWELVE99 Arelion, fka Telia Carrier, SE	213.248.64.0/18		
+15	poznan-gw5.rtr.pionier.gov.pl	212.191.233.1	PIONIER-AS-COM PIONIER, PL	212.191.233.0/24		
+16	z-poznan-gw5.Krakow-COM.rtr.pionier.gov.pl	212.191.230.13	PIONIER-AS-COM PIONIER, PL	212.191.230.0/24		
+17	195.150.0.196	195.150.0.196	CYFRONET-AS2 Metropolitan Area Network Autonomous System, PL	195.150.0.0/17		
+18	195.150.0.109	195.150.0.109	CYFRONET-AS2 Metropolitan Area Network Autonomous System, PL	195.150.0.0/17		
+19	195.150.6.138	195.150.6.138	CYFRONET-AS2 Metropolitan Area Network Autonomous System, PL	195.150.0.0/17		
+20	www.interia.pl	217.74.75.90	INTERIA, PL	217.74.72.0/22		
+
 po kilku próbach większośc sprawdzonych stron ulokowana jest w USA 
