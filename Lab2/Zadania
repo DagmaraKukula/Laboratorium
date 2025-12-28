@@ -1,0 +1,16 @@
+Zadanie 1
+Wielkość pliku -1GB 
+Przepustowość- 300 Mb/s 
+Czas potrzebny do pobrania pliku?
+Obliczenia:
+czas teoretyczny bez narzutów
+1GB=8Gb=8000Mb
+8000/300=26,6(6)s 
+korekta o narzut i retransmisje
+1%-retransmisja
+3%-narzut Ethernet/IP/TCP
+26,6(6)*1,04=27,7(3)
+Wnioski:
+Czas teoretyczny bez strat i narzutów 26.6(6)s a rzeczywisty 27,7(3)s.
+
+Zadanie 2
