@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteka>
+  <osoba id="1">
+    <imie>Mario</imie>
+    <nazwisko>Puzzo</nazwisko>
+    <plec>M</plec>
+    <wiek>78</wiek>
+  </osoba>
+
+  <osoba id="2">
+    <imie>Andrzej</imie>
+    <nazwisko>Sapkowski</nazwisko>
+    <plec>M</plec>
+    <wiek>76</wiek>
+  </osoba>
+
+  <osoba id="3">
+    <imie>Paulo</imie>
+    <nazwisko>Coelho</nazwisko>
+    <plec>M</plec>
+    <wiek>77</wiek>
+  </osoba>
+
+  <osoba id="4">
+    <imie>Olga</imie>
+    <nazwisko>Tokarczuk</nazwisko>
+    <plec>K</plec>
+    <wiek>63</wiek>
+  </osoba>
+
+  <osoba id="5">
+    <imie>Katarzyna</imie>
+    <nazwisko>Bonda</nazwisko>
+    <plec>K</plec>
+    <wiek>48</wiek>
+  </osoba>
+
+  <osoba id="6">
+    <imie>Agnieszka</imie>
+    <nazwisko>Hałas</nazwisko>
+    <plec>K</plec>
+    <wiek>44</wiek>
+  </osoba>
+</biblioteka>
