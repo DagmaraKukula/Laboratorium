@@ -14,3 +14,15 @@ Wnioski:
 Czas teoretyczny bez strat i narzutów 26.6(6)s a rzeczywisty 27,7(3)s.
 
 Zadanie 2
+Sposób połączenia T568B - kabel wykonano poprawnie, tester nie pokazał błedów.
+RJ-45 "1"            RJ-45 "2"
+biało-pomarańczowy   biało-pomarańczowy  
+pomarańczowy         pomarańczowy
+biało-zielony        biało-zielony
+niebieski            niebieski
+biało-niebieski      biało-niebieski
+zielony              zielony
+biało-brązowy        biało-brązowy
+brązowy              brązowy
+
+Można poprawić długośc odcietej izolacji, tak aby weszła pod zatrzask wtyczki.
