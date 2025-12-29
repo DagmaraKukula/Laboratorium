@@ -1,1 +1,13 @@
+Odpowiedz na pytania:
+1. Gdzie znajdują się parametry w metodzie GET?
+- Parametry w metodzie GET znajdują się po pytajniku w adresie url -  "url": "https://httpbin.org/get?imie=Jan&miasto=Krakow", Request URL https://httpbin.org/get?imie=Jan&miasto=Krakow
 
+2. Czy są one szyfrowane?
+metody GET i POST nie szyfrują danych, szyfrowanie zależy od protokołu:
+HTTP – dane nie są szyfrowane
+HTTPS – dane są szyfrowane w obu metodach, ponieważ używany jest protokół TLS (tu były szyfrowane)
+
+3. Jaka jest różnica między GET a POST w miejscu przesyłania danych?
+Różnica polega na widoczności danych:
+w GET dane są widoczne w URL, mniej bezpieczne, łatwe udostepnianie,
+w POST dane nie są widoczne w adresie, większe bezpieczeństwo.
