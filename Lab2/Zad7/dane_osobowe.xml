@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<formularz>
+  <osoba id="1">
+    <imie>Mario</imie>
+    <nazwisko>Puzzo</nazwisko>
+    <plec>M</plec>
+    <wiek>78</wiek>
+  </osoba>
+</formularz>
